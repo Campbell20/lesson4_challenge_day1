@@ -76,8 +76,8 @@ img {
 
 .contentbox2 {
     display: flex;
-    flex-flow: wrap;
-    justify-content: center;
+    flex-flow: nowrap;
+    justify-content:left;
     margin: 30px;
     background-color: #f7f7f7;
 }
